@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e48bd3-ea10-4549-9a01-331d7149c63a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual_Build_Your_Own_World_2D.iml" afterDir="false" />
+    <list default="true" id="d7e48bd3-ea10-4549-9a01-331d7149c63a" name="Changes" comment="I am less scared. Now im just tired">
+      <change afterPath="$PROJECT_DIR$/res/Player/down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Player/down2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/GamePanell.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tile/TileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Player" />
+      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\src\Tiles" />
       <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D" />
     </key>
   </component>
@@ -53,6 +57,26 @@
       <option name="presentableId" value="Default" />
       <updated>1685241629740</updated>
     </task>
+    <task id="LOCAL-00001" summary="I DONT KNOW OK EVERYTHING IS RED AND I DONT KNOW WHATS HAPPENING">
+      <created>1685242014467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685242014467</updated>
+    </task>
+    <task id="LOCAL-00002" summary="I am less scared. Now im just tired">
+      <created>1685243140092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685243140092</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I DONT KNOW OK EVERYTHING IS RED AND I DONT KNOW WHATS HAPPENING" />
+    <MESSAGE value="I am less scared. Now im just tired" />
+    <option name="LAST_COMMIT_MESSAGE" value="I am less scared. Now im just tired" />
   </component>
 </project>
