@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e48bd3-ea10-4549-9a01-331d7149c63a" name="Changes" comment="I am less scared. Now im just tired">
-      <change afterPath="$PROJECT_DIR$/res/Player/down1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Player/down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/GamePanell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tile/TileManager.java" afterDir="false" />
+    <list default="true" id="d7e48bd3-ea10-4549-9a01-331d7149c63a" name="Changes" comment="adding the player images">
+      <change beforePath="$PROJECT_DIR$/src/Entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,12 +67,20 @@
       <option name="project" value="LOCAL" />
       <updated>1685243140092</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding the player images">
+      <created>1685305910626</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685305910626</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I DONT KNOW OK EVERYTHING IS RED AND I DONT KNOW WHATS HAPPENING" />
     <MESSAGE value="I am less scared. Now im just tired" />
-    <option name="LAST_COMMIT_MESSAGE" value="I am less scared. Now im just tired" />
+    <MESSAGE value="adding the player images" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding the player images" />
   </component>
 </project>
