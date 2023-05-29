@@ -12,8 +12,8 @@ public class GamePanel extends JPanel implements Runnable {
     final int scale = 3;
 
     public final int TileSize = scale*OriginalTileSize; //the tiles will show up as 48x48 pixels but are computed and drawn at 16x16.
-    final int MaxScreenCol = 12; //16 columns of tiles can be rendered at one time
-    final int MaxScreenRow = 16; //12 rows of tiles can be rendered at one time
+    public final int MaxScreenCol = 12; //16 columns of tiles can be rendered at one time
+    public final int MaxScreenRow = 16; //12 rows of tiles can be rendered at one time
     final int ScreenWidth = MaxScreenRow*TileSize;
     final int ScreenHeight = MaxScreenCol*TileSize;
     KeyHandler keyH = new KeyHandler();
