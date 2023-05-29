@@ -1,6 +1,7 @@
 package Main;
 
 import Entity.Player;
+import Tile.TileManager;
 
 import javax.swing.*;
 import java.awt.*;
@@ -18,6 +19,7 @@ public class GamePanel extends JPanel implements Runnable {
     KeyHandler keyH = new KeyHandler();
 
     Player player = new Player(this,keyH);
+    TileManager TileM = new TileManager(this);
 
 
     final int FPS = 60; //how many frames to be drawn per second
@@ -74,7 +76,9 @@ public class GamePanel extends JPanel implements Runnable {
 
         super.paintComponent(g);
         Graphics2D g2 = (Graphics2D)g;
+        TileM.draw(g2); //tiles must be drawn first. If not, they will cover up the player.
         player.draw(g2);
+
         g2.dispose(); //frees up the resources used by g2
     }
 

@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e48bd3-ea10-4549-9a01-331d7149c63a" name="Changes" comment="adding the player images">
-      <change beforePath="$PROJECT_DIR$/src/Entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Player.java" afterDir="false" />
+    <list default="true" id="d7e48bd3-ea10-4549-9a01-331d7149c63a" name="Changes" comment="player character now functioning correctly">
+      <change afterPath="$PROJECT_DIR$/res/Tiles/water2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Tiless/wall.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Tiles/wall2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Tiless/water.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Tiles/water1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tile/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tile/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tile/TileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tiles/dirt.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Tiles/dirt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tiles/grass.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Tiles/grass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tiles/wall.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Tiles/wall1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tiles/water.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +49,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Tiles" />
+      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Tiless" />
       <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Player" />
       <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\src\Tiles" />
       <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D" />
@@ -74,13 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685305910626</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="player character now functioning correctly">
+      <created>1685306164115</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685306164115</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I DONT KNOW OK EVERYTHING IS RED AND I DONT KNOW WHATS HAPPENING" />
     <MESSAGE value="I am less scared. Now im just tired" />
     <MESSAGE value="adding the player images" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding the player images" />
+    <MESSAGE value="player character now functioning correctly" />
+    <option name="LAST_COMMIT_MESSAGE" value="player character now functioning correctly" />
   </component>
 </project>
