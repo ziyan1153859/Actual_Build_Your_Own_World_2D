@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e48bd3-ea10-4549-9a01-331d7149c63a" name="Changes" comment="updating the files. Map isnt finished but so far so good">
-      <change afterPath="$PROJECT_DIR$/res/Tiles/bridgehorizontal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Trader/left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Trader/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Trader/up.png" afterDir="false" />
+    <list default="true" id="d7e48bd3-ea10-4549-9a01-331d7149c63a" name="Changes" comment="adding the bridgehorizontal texture">
+      <change afterPath="$PROJECT_DIR$/res/Objects/Lever_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Objects/Lever_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Objects/watch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Player/rightred.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tiles/bridgevertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Trader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/AssetSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/CollisionChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object/Lever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object/SuperObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object/Watch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/rando/za_trade'a.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Trader/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Tiles/grass.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Tiles/grass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tile/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tile/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tile/TileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +56,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Trader" />
-      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\rando" />
-      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Tiles" />
-      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Tiless" />
       <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Player" />
+      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Objects" />
+      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Tiles" />
+      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Interactables" />
+      <recent name="C:\Users\ziyan\OneDrive\Desktop\IdeaProjects\Actual_Build_Your_Own_World_2D\res\Trader" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -98,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685329999405</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding the bridgehorizontal texture">
+      <created>1685391163464</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685391163464</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,6 +123,7 @@
     <MESSAGE value="adding the player images" />
     <MESSAGE value="player character now functioning correctly" />
     <MESSAGE value="updating the files. Map isnt finished but so far so good" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating the files. Map isnt finished but so far so good" />
+    <MESSAGE value="adding the bridgehorizontal texture" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding the bridgehorizontal texture" />
   </component>
 </project>
