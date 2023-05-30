@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e48bd3-ea10-4549-9a01-331d7149c63a" name="Changes" comment="adding the bridgehorizontal texture">
-      <change afterPath="$PROJECT_DIR$/res/Objects/Lever_off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Objects/Lever_on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Objects/watch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Player/rightred.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Tiles/bridgevertical.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entity/Trader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/AssetSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/CollisionChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object/Lever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object/SuperObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object/Watch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Tiles/grass.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/Tiles/grass.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Entity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tile/TileManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="d7e48bd3-ea10-4549-9a01-331d7149c63a" name="Changes" comment="Trader dialogue not triggering. UNFINISHED." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,8 +95,26 @@
       <option name="project" value="LOCAL" />
       <updated>1685391163464</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Trader dialogue not triggering. UNFINISHED.">
+      <created>1685430031591</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685430031591</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I DONT KNOW OK EVERYTHING IS RED AND I DONT KNOW WHATS HAPPENING" />
@@ -124,6 +123,7 @@
     <MESSAGE value="player character now functioning correctly" />
     <MESSAGE value="updating the files. Map isnt finished but so far so good" />
     <MESSAGE value="adding the bridgehorizontal texture" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding the bridgehorizontal texture" />
+    <MESSAGE value="Trader dialogue not triggering. UNFINISHED." />
+    <option name="LAST_COMMIT_MESSAGE" value="Trader dialogue not triggering. UNFINISHED." />
   </component>
 </project>
